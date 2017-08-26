@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bbc"
+            android:icon="@drawable/ic_cast_black_24dp"
+            android:title="@string/nav_bbc" />
+        <item
+            android:id="@+id/nav_cnn"
+            android:icon="@drawable/ic_view_module_black_24dp"
+            android:title="@string/nav_cnn" />
+        <item
+            android:id="@+id/nav_mtv"
+            android:icon="@drawable/ic_bookmark_border_black_24dp"
+            android:title="@string/nav_mtv" />
+    </group>
+</menu>
